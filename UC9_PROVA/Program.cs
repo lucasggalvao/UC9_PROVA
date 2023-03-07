@@ -63,7 +63,7 @@ for (i = 1; i <= 5; i++)
         Console.WriteLine(aluno + ", reprovado por menção e faltas com " + md.ToString("F") + " de media e " + presenca + "% de presença");
     }
 
-    Console.WriteLine("Pressione qualquer trcla para continuar");
+    Console.WriteLine("Pressione qualquer tecla para continuar");
     Console.ReadLine();
 
 }
